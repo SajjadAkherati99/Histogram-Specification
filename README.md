@@ -4,14 +4,14 @@ In a number of scientific or artistic applications we need to change the color h
 
 # Main Image
 <p align="center">
-  <img width="3770" height="3242" src="./Dark.jpg">
-  <img width="3770" height="3242" src="./Pink.jpg">
+  <img width="440" height="330" src="./Dark.jpg">
+  <img width="300" height="400" src="./Pink.jpg">
 </p>
 
 # Results
 <p align="center">
-  <img width="803" height="633" src="./res05.jpg">
-  <img width="803" height="633" src="./res05_1.jpg">
-  <img width="803" height="633" src="./res06.jpg">
-  <img width="803" height="633" src="./res06_1.jpg">
+  <img width="880" height="660" src="./res05.jpg">
+  <img width="880" height="660" src="./res05_1.jpg">
+  <img width="880" height="660" src="./res06.jpg">
+  <img width="880" height="660" src="./res06_1.jpg">
 </p>
